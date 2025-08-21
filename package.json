@@ -1,0 +1,15 @@
+{
+  "name": "chai_project",
+  "version": "1.0.0",
+  "description": "this is backend projrct",
+  "keywords": [
+    "js"
+  ],
+  "license": "ISC",
+  "author": "dhairya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
